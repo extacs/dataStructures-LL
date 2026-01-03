@@ -1,0 +1,1 @@
+- practicing ptrs through these. Still considering if I should use pointers primarily on other projects.
